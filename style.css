@@ -77,7 +77,7 @@ main{
     color: #222;
     object-fit: fill; 
     position: relative;
-    top:-900px;
+    top:-702px;
 }
 
 #register .button{
@@ -105,7 +105,7 @@ main{
 
 #register .dots{
     position: relative;
-    top: 160px;
+    top: 100px;
 }
 
 .dots:hover{
